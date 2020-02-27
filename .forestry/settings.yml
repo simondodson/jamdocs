@@ -21,7 +21,7 @@ sections:
 upload_dir: CLOUDINARY_URL=cloudinary://934568517524452:9ToUbcTI9-XzyzXfYAFS-weqyPw@goodpizza-com-au
 public_path: ''
 front_matter_path: ''
-use_front_matter_path: 
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   preview_output_directory: dist
