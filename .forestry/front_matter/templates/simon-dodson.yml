@@ -11,3 +11,11 @@ fields:
 - type: text
   name: slug
   label: slug
+- name: SIMON_DODSON
+  type: color
+  label: kjh
+  config:
+    required: false
+    color_format: Hex
+  hidden: true
+  description: DIGITAL
